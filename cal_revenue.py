@@ -1,3 +1,7 @@
+"""
+模拟计算复利增长下的总资产
+"""
+
 
 def cal_asset(annual_income, deposit, annual_income_increase, return_on_investment, total_years, this_year):
     """
